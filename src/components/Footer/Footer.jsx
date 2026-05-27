@@ -6,7 +6,7 @@ const navigateLinks = [
 ];
 
 const connectLinks = [
-  { label: "LinkedIn", href: "https://www.linkedin.com/company/verkoni" },
+  // { label: "LinkedIn", href: "https://www.linkedin.com/company/verkoni" },
   // { label: "X", href: "#" },
 ];
 
@@ -47,7 +47,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div className="sm:text-right">
+          {/* <div className="sm:text-right">
             <p className="text-white/45 text-[11px] uppercase tracking-[0.35em] mb-10 md:mb-14">
               Connect
             </p>
@@ -63,7 +63,7 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
-          </div>
+          </div> */}
         </div>
 
         {/* COPYRIGHT + BACK TO TOP */}
