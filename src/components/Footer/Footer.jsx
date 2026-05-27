@@ -6,8 +6,8 @@ const navigateLinks = [
 ];
 
 const connectLinks = [
-  { label: "LinkedIn", href: "#" },
-  { label: "X", href: "#" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/company/verkoni" },
+  // { label: "X", href: "#" },
 ];
 
 function scrollToTop() {
